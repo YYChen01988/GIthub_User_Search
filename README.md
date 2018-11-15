@@ -1,6 +1,6 @@
-### GitHub Search Tool
+## GitHub Search Tool
 Using github API to look up repositories by input user name.
-# npm start
+### npm start
 
 
 
